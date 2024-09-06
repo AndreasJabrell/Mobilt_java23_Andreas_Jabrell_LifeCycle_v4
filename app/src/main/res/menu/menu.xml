@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logIn"
+        android:title="Logga In"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/create"
+        android:title="Skapa Nytt Konto"
+        app:showAsAction="never" />
+</menu>
